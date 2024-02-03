@@ -1,4 +1,7 @@
 <!-- Heading -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611bay9md4mqim52pha978gldakln68u5rwrwyzxm87&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300"/>
+</div>
 <h1 align="center">👋 Hello, I'm Veronika </h1>
 
 <!-- Status Badges -->
